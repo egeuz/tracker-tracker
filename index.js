@@ -20,6 +20,11 @@ app.use(express.static(path.join(__dirname, 'client/build')));
 // const mongoose = require('mongoose')
 // mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true })
 
+app.get('/api/test', async (req, res) => {
+  res.json({text: "hey"})
+  
+})
+
 /*** ROUTES ***/
 app.post('/api/analyze-url', async (req, res) => {
   const url = req.body.url

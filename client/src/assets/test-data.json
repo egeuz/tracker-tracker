@@ -1,0 +1,960 @@
+{
+  "url_visited": "https://www.reddit.com/",
+  "host_data": {
+    "domain": "reddit.com",
+    "ip_data": {
+      "ip_address": "151.101.193.140",
+      "country_code": "US",
+      "country": "United States",
+      "city": "",
+      "latitude": 37.751,
+      "longitude": -97.822
+    },
+    "whois_data": {
+      "registrar": "MarkMonitor Inc.",
+      "registrar_abuse_contact_email": "abusecomplaints@markmonitor.com",
+      "registrar_abuse_contact_phone": "+1.2083895740"
+    },
+    "radar_data": {
+      "owner_data": {
+        "name": "Reddit Inc.",
+        "displayName": "Reddit",
+        "privacyPolicy": "https://www.redditinc.com/policies/privacy-policy",
+        "url": "http://redditinc.com"
+      },
+      "prevalence": 0.00938,
+      "fingerprinting": 0,
+      "cookies": 0.00895,
+      "categories": [
+        "Ad Motivated Tracking",
+        "Advertising",
+        "Analytics",
+        "Audience Measurement",
+        "Third-Party Analytics Marketing",
+        "Social - Comment",
+        "Social - Share",
+        "Badge",
+        "Embedded Content",
+        "Social Network"
+      ]
+    },
+    "associated_cookies": [
+      {
+        "name": "loid",
+        "type": "unknown",
+        "value": "00000000008vpji7cw.2.1605312660000.Z0FBQUFBQmZyeUNVbXk2ak1ERWlxSWdxSlJxR0N1VHN1SDE5eFhfekgzY0RaTTIyclk1OC1UNXM5YVUtNFZnN21GanNEcVZwcHRpT09KdElTeUdyTmRoaGRfTFU1NFNxa2kydE1RUEs2bjlveFRhMnBYUVJxenNjaHE4R2dQcHVmZzZFWW9ONXRvOGQ",
+        "domain": "reddit.com",
+        "secure": true,
+        "session": false,
+        "httpOnly": false,
+        "thirdParty": false,
+        "expiryDate": "2022-11-14T00:11:00.181Z"
+      },
+      {
+        "name": "token_v2",
+        "type": "unknown",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDUzMTYxNDAsInN1YiI6Ii1DUmxaQURKT2pXUG03TjdUcXZPQzU2YU1pUjgiLCJsb2dnZWRJbiI6ZmFsc2UsInNjb3BlcyI6WyIqIiwiZW1haWwiXX0.v4ly08_QURajcLvt6DF1MEcXsL0EcQU_ePDGT5JUSDM",
+        "domain": "reddit.com",
+        "secure": true,
+        "session": false,
+        "httpOnly": true,
+        "thirdParty": false,
+        "expiryDate": "2022-11-14T00:11:00.181Z"
+      },
+      {
+        "name": "csv",
+        "type": "unknown",
+        "value": "1",
+        "domain": "reddit.com",
+        "secure": true,
+        "session": false,
+        "httpOnly": false,
+        "thirdParty": false,
+        "expiryDate": "2022-11-14T00:11:02.181Z"
+      },
+      {
+        "name": "edgebucket",
+        "type": "unknown",
+        "value": "2qNknXqulw5mk6GvUe",
+        "domain": "reddit.com",
+        "secure": true,
+        "session": false,
+        "httpOnly": false,
+        "thirdParty": false,
+        "expiryDate": "2022-11-14T00:11:01.181Z"
+      },
+      {
+        "name": "__aaxsc",
+        "type": "unknown",
+        "value": "2",
+        "domain": "www.reddit.com",
+        "secure": false,
+        "session": true,
+        "httpOnly": false,
+        "thirdParty": false,
+        "expiryDate": -1
+      },
+      {
+        "name": "aasd",
+        "type": "unknown",
+        "value": "2%7C1605312664373",
+        "domain": "www.reddit.com",
+        "secure": true,
+        "session": true,
+        "httpOnly": false,
+        "thirdParty": false,
+        "expiryDate": -1
+      },
+      {
+        "name": "recent_srs",
+        "type": "js",
+        "value": "t5_2qoox%2C",
+        "domain": "reddit.com",
+        "secure": false,
+        "session": false,
+        "httpOnly": false,
+        "thirdParty": false,
+        "expiryDate": "2022-11-14T00:11:11.000Z"
+      },
+      {
+        "name": "session",
+        "type": "unknown",
+        "value": "65a0375d39e0f402e2949e43a7a9bdf18d45fd18gASVSQAAAAAAAABKnyCvX0dB1+vIJml0Cn2UjAdfY3NyZnRflIwoODk0ZWZlN2QxYTMxMzAzOGYzN2I0MjUyNDc0ZmJhMWMyMzY3MWE4Y5Rzh5Qu",
+        "domain": "www.reddit.com",
+        "secure": true,
+        "session": true,
+        "httpOnly": true,
+        "thirdParty": false,
+        "expiryDate": -1
+      },
+      {
+        "name": "session_tracker",
+        "type": "unknown",
+        "value": "onqijmjqdbbfdhdrdc.0.1605312674092.Z0FBQUFBQmZyeUNpTUZGSnVxbEtKd1F2RGZ2Y0JhUlN6bF9xWUVkV0NLUTd0bFo4YXJRckVxZ2M3QzMtX01WZEd6VWVhX3RzYkQtSjRnSktsMlBVTGFQT2ZKRlJ5TmYzSHp2Z3pzQmpONDktN0gxZjVJYU1mMXRnU2E5bmFXWkV4cGQyeTB2TGVqcUQ",
+        "domain": "reddit.com",
+        "secure": true,
+        "session": false,
+        "httpOnly": false,
+        "thirdParty": false,
+        "expiryDate": "2020-11-14T02:11:12.700Z"
+      }
+    ],
+    "associated_trackers": []
+  },
+  "third_party_data": [
+    {
+      "domain": "redditstatic.com",
+      "ip_data": {
+        "ip_address": "not found",
+        "country_code": "not found",
+        "country": "not found",
+        "region": "not found",
+        "city": "not found",
+        "latitude": "not found",
+        "longitude": "not found"
+      },
+      "whois_data": {
+        "registrar": "MarkMonitor Inc.",
+        "registrar_abuse_contact_email": "abusecomplaints@markmonitor.com",
+        "registrar_abuse_contact_phone": "+1.2083895740"
+      },
+      "radar_data": {
+        "owner_data": {
+          "name": "Reddit Inc.",
+          "displayName": "Reddit",
+          "privacyPolicy": "https://www.redditinc.com/policies/privacy-policy",
+          "url": "http://redditinc.com"
+        },
+        "prevalence": 0.00515,
+        "fingerprinting": 1,
+        "cookies": 0.00416,
+        "categories": ["Ad Motivated Tracking", "Analytics", "Action Pixels"]
+      },
+      "associated_cookies": [],
+      "associated_trackers": [
+        {
+          "domain": "www.redditstatic.com",
+          "url": "https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png",
+          "filter": "/renderTimingPixel.",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.reddit.com/r/nutrition/",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        },
+        {
+          "domain": "www.redditstatic.com",
+          "url": "https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png",
+          "filter": "/renderTimingPixel.",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.reddit.com/",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "redditmedia.com",
+      "ip_data": {
+        "ip_address": "3.215.169.224",
+        "country_code": "US",
+        "country": "United States",
+        "city": "Ashburn",
+        "latitude": 39.0481,
+        "longitude": -77.4729
+      },
+      "whois_data": {
+        "registrar": "MarkMonitor Inc.",
+        "registrar_abuse_contact_email": "abusecomplaints@markmonitor.com",
+        "registrar_abuse_contact_phone": "+1.2083895740"
+      },
+      "radar_data": {
+        "owner_data": {
+          "name": "Reddit Inc.",
+          "displayName": "Reddit",
+          "privacyPolicy": "https://www.redditinc.com/policies/privacy-policy",
+          "url": "http://redditinc.com"
+        },
+        "prevalence": 0.000114,
+        "fingerprinting": 1,
+        "cookies": 0.0000304,
+        "categories": []
+      },
+      "associated_cookies": [],
+      "associated_trackers": [
+        {
+          "domain": "www.redditmedia.com",
+          "url": "https://www.redditmedia.com/gtm/jail?id=GTM-5XVNS82",
+          "filter": "||redditmedia.com/gtm/jail?",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            { "fileName": "", "source": "ThirdPartyTracker RequestHandler" }
+          ]
+        },
+        {
+          "domain": "www.redditmedia.com",
+          "url": "https://www.redditmedia.com/gtm/jail?id=GTM-5XVNS82",
+          "filter": "||redditmedia.com/gtm/jail?",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            { "fileName": "", "source": "ThirdPartyTracker RequestHandler" }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "redd.it",
+      "ip_data": {
+        "ip_address": "151.101.1.140",
+        "country_code": "US",
+        "country": "United States",
+        "city": "",
+        "latitude": 37.751,
+        "longitude": -97.822
+      },
+      "whois_data": {},
+      "radar_data": {
+        "owner_data": "not found",
+        "prevalence": "not found",
+        "fingerprinting": "not found",
+        "cookies": "not found",
+        "categories": "not found"
+      },
+      "associated_cookies": [],
+      "associated_trackers": []
+    },
+    {
+      "domain": "googletagservices.com",
+      "ip_data": {
+        "ip_address": "not found",
+        "country_code": "not found",
+        "country": "not found",
+        "region": "not found",
+        "city": "not found",
+        "latitude": "not found",
+        "longitude": "not found"
+      },
+      "whois_data": {
+        "registrar": "MarkMonitor Inc.",
+        "registrar_abuse_contact_email": "abusecomplaints@markmonitor.com",
+        "registrar_abuse_contact_phone": "+1.2083895740"
+      },
+      "radar_data": {
+        "owner_data": {
+          "name": "Google LLC",
+          "displayName": "Google",
+          "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+          "url": "http://google.com"
+        },
+        "prevalence": 0.282,
+        "fingerprinting": 2,
+        "cookies": 0,
+        "categories": [
+          "Ad Motivated Tracking",
+          "Advertising",
+          "Analytics",
+          "Audience Measurement",
+          "Third-Party Analytics Marketing",
+          "Action Pixels"
+        ]
+      },
+      "associated_cookies": [],
+      "associated_trackers": []
+    },
+    {
+      "domain": "amazon-adsystem.com",
+      "ip_data": {
+        "ip_address": "not found",
+        "country_code": "not found",
+        "country": "not found",
+        "region": "not found",
+        "city": "not found",
+        "latitude": "not found",
+        "longitude": "not found"
+      },
+      "whois_data": {
+        "registrar": "MarkMonitor Inc.",
+        "registrar_abuse_contact_email": "abusecomplaints@markmonitor.com",
+        "registrar_abuse_contact_phone": "+1.2083895740"
+      },
+      "radar_data": {
+        "owner_data": {
+          "name": "Amazon Technologies, Inc.",
+          "displayName": "Amazon.com",
+          "privacyPolicy": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468496",
+          "url": "http://amazon.com"
+        },
+        "prevalence": 0.144,
+        "fingerprinting": 1,
+        "cookies": 0.123,
+        "categories": ["Ad Motivated Tracking", "Advertising"]
+      },
+      "associated_cookies": [],
+      "associated_trackers": []
+    },
+    {
+      "domain": "aaxads.com",
+      "ip_data": {
+        "ip_address": "not found",
+        "country_code": "not found",
+        "country": "not found",
+        "region": "not found",
+        "city": "not found",
+        "latitude": "not found",
+        "longitude": "not found"
+      },
+      "whois_data": {
+        "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+        "registrant_country": "US",
+        "registrant_region": "Georgia",
+        "registrant_city": "Atlanta",
+        "registrar_abuse_contact_email": "abuse-contact@publicdomainregistry.com",
+        "registrar_abuse_contact_phone": "+1.2013775952"
+      },
+      "radar_data": {
+        "owner_data": {
+          "name": "Acceptable Ads Exchange",
+          "displayName": "Acceptable Ads Exchange"
+        },
+        "prevalence": 0.00184,
+        "fingerprinting": 1,
+        "cookies": 0.00164,
+        "categories": []
+      },
+      "associated_cookies": [
+        {
+          "name": "aax-vsid",
+          "type": "unknown",
+          "value": "2483142643642711000V10",
+          "domain": "aaxads.com",
+          "secure": true,
+          "session": false,
+          "httpOnly": false,
+          "thirdParty": true,
+          "expiryDate": "2021-11-14T00:11:03.864Z"
+        }
+      ],
+      "associated_trackers": []
+    },
+    {
+      "domain": "doubleclick.net",
+      "ip_data": {
+        "ip_address": "2a00:1450:4001:825::200e",
+        "country_code": "DE",
+        "country": "Germany",
+        "city": "Frankfurt am Main",
+        "latitude": 50.1188,
+        "longitude": 8.6843
+      },
+      "whois_data": {
+        "registrar": "MarkMonitor Inc.",
+        "registrar_abuse_contact_email": "abusecomplaints@markmonitor.com",
+        "registrar_abuse_contact_phone": "+1.2083895740"
+      },
+      "radar_data": {
+        "owner_data": {
+          "name": "Google LLC",
+          "displayName": "Google",
+          "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+          "url": "http://google.com"
+        },
+        "prevalence": 0.663,
+        "fingerprinting": 2,
+        "cookies": 0.484,
+        "categories": ["Ad Motivated Tracking", "Advertising"]
+      },
+      "associated_cookies": [],
+      "associated_trackers": []
+    },
+    {
+      "domain": "aaxdetect.com",
+      "ip_data": {
+        "ip_address": "23.56.194.78",
+        "country_code": "US",
+        "country": "United States",
+        "city": "",
+        "latitude": 37.751,
+        "longitude": -97.822
+      },
+      "whois_data": {
+        "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+        "registrant_country": "US",
+        "registrant_region": "Georgia",
+        "registrant_city": "Atlanta",
+        "registrar_abuse_contact_email": "abuse-contact@publicdomainregistry.com",
+        "registrar_abuse_contact_phone": "+1.2013775952"
+      },
+      "radar_data": {
+        "owner_data": "not found",
+        "prevalence": "not found",
+        "fingerprinting": "not found",
+        "cookies": "not found",
+        "categories": "not found"
+      },
+      "associated_cookies": [],
+      "associated_trackers": [
+        {
+          "domain": "www.aaxdetect.com",
+          "url": "https://www.aaxdetect.com/pxext.gif",
+          "filter": "||aaxdetect.com^$third-party",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.reddit.com/r/nutrition/",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        },
+        {
+          "domain": "www.aaxdetect.com",
+          "url": "https://www.aaxdetect.com/pxext.gif",
+          "filter": "||aaxdetect.com^$third-party",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.reddit.com/",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "googletagmanager.com",
+      "ip_data": {
+        "ip_address": "2a00:1450:4001:816::2008",
+        "country_code": "DE",
+        "country": "Germany",
+        "city": "Frankfurt am Main",
+        "latitude": 50.1188,
+        "longitude": 8.6843
+      },
+      "whois_data": {
+        "registrar": "MarkMonitor Inc.",
+        "registrar_abuse_contact_email": "abusecomplaints@markmonitor.com",
+        "registrar_abuse_contact_phone": "+1.2083895740"
+      },
+      "radar_data": {
+        "owner_data": {
+          "name": "Google LLC",
+          "displayName": "Google",
+          "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+          "url": "http://google.com"
+        },
+        "prevalence": 0.354,
+        "fingerprinting": 2,
+        "cookies": 0.088,
+        "categories": [
+          "Ad Motivated Tracking",
+          "Advertising",
+          "Analytics",
+          "Audience Measurement",
+          "Third-Party Analytics Marketing"
+        ]
+      },
+      "associated_cookies": [],
+      "associated_trackers": [
+        {
+          "domain": "www.googletagmanager.com",
+          "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XVNS82&l=googleTagManager",
+          "filter": "/gtm.js",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        },
+        {
+          "domain": "www.googletagmanager.com",
+          "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5XVNS82&l=googleTagManager",
+          "filter": "/gtm.js",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "rlcdn.com",
+      "ip_data": {
+        "ip_address": "not found",
+        "country_code": "not found",
+        "country": "not found",
+        "region": "not found",
+        "city": "not found",
+        "latitude": "not found",
+        "longitude": "not found"
+      },
+      "whois_data": {
+        "registrar": "Cloudflare, Inc.",
+        "registrant_country": "US",
+        "registrant_region": "CA",
+        "registrar_abuse_contact_email": "registrar-abuse@cloudflare.com",
+        "registrar_abuse_contact_phone": "+1.4153197517"
+      },
+      "radar_data": {
+        "owner_data": {
+          "name": "LiveRamp",
+          "displayName": "LiveRamp",
+          "privacyPolicy": "https://liveramp.com/privacy/",
+          "url": "http://liveramp.com"
+        },
+        "prevalence": 0.192,
+        "fingerprinting": 1,
+        "cookies": 0.187,
+        "categories": [
+          "Ad Motivated Tracking",
+          "Advertising",
+          "Ad Fraud",
+          "Analytics",
+          "Third-Party Analytics Marketing"
+        ]
+      },
+      "associated_cookies": [
+        {
+          "name": "rlas3",
+          "type": "unknown",
+          "value": "21Ik9S6+4o8OTsLt8I0avo3gL5CFtECjuuda00Uo9uc=",
+          "domain": "rlcdn.com",
+          "secure": true,
+          "session": false,
+          "httpOnly": false,
+          "thirdParty": true,
+          "expiryDate": "2021-11-14T00:11:11.324Z"
+        },
+        {
+          "name": "pxrc",
+          "type": "unknown",
+          "value": "CJnBvP0FEgUI6AcQABIGCNzdKhAG",
+          "domain": "rlcdn.com",
+          "secure": true,
+          "session": false,
+          "httpOnly": false,
+          "thirdParty": true,
+          "expiryDate": "2021-01-13T00:11:11.324Z"
+        }
+      ],
+      "associated_trackers": [
+        {
+          "domain": "id.rlcdn.com",
+          "url": "https://id.rlcdn.com/472486.gif?gtmcb=170609823",
+          "filter": "||rlcdn.com^$third-party",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        },
+        {
+          "domain": "id.rlcdn.com",
+          "url": "https://id.rlcdn.com/1000.gif?memo=CKbrHBoNCJnBvP0FEgUI6AcQAEIASgA",
+          "filter": "||rlcdn.com^$third-party",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        },
+        {
+          "domain": "id.rlcdn.com",
+          "url": "https://id.rlcdn.com/472486.gif?gtmcb=1326639827",
+          "filter": "||rlcdn.com^$third-party",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "quantserve.com",
+      "ip_data": {
+        "ip_address": "not found",
+        "country_code": "not found",
+        "country": "not found",
+        "region": "not found",
+        "city": "not found",
+        "latitude": "not found",
+        "longitude": "not found"
+      },
+      "whois_data": {
+        "registrar": "MarkMonitor Inc.",
+        "registrar_abuse_contact_email": "abusecomplaints@markmonitor.com",
+        "registrar_abuse_contact_phone": "+1.2083895740"
+      },
+      "radar_data": {
+        "owner_data": {
+          "name": "Quantcast Corporation",
+          "displayName": "Quantcast",
+          "privacyPolicy": "http://www.quantcast.com/privacy",
+          "url": "http://quantcast.com"
+        },
+        "prevalence": 0.163,
+        "fingerprinting": 1,
+        "cookies": 0.162,
+        "categories": [
+          "Ad Motivated Tracking",
+          "Advertising",
+          "Analytics",
+          "Audience Measurement",
+          "Third-Party Analytics Marketing"
+        ]
+      },
+      "associated_cookies": [
+        {
+          "name": "mc",
+          "type": "unknown",
+          "value": "5faf2099-d12f2-a07a3-f8314",
+          "domain": "quantserve.com",
+          "secure": true,
+          "session": false,
+          "httpOnly": false,
+          "thirdParty": true,
+          "expiryDate": "2021-12-15T00:11:05.466Z"
+        }
+      ],
+      "associated_trackers": [
+        {
+          "domain": "pixel.quantserve.com",
+          "url": "https://pixel.quantserve.com/pixel;r=673371101;labels=Subreddit.Health.nutrition;rf=0;uh=d62e3c65eb9;uht=2;a=p-xLEyC0FLYFXAH;url=https%3A%2F%2Fwww.redditmedia.com%2Fgtm%3Fid%3DGTM-5XVNS82%26cb%3Dnull;fpan=1;fpa=P0-27611463-1605312671315;ns=1;ce=1;qjs=1;qv=3364aec3-20201006003021;cm=;gdpr=0;ref=;d=www.redditmedia.com;je=0;sr=1680x1050x30;dst=1;et=1605312671315;tzo=300;ogl=",
+          "filter": "||quantserve.com/pixel;",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        },
+        {
+          "domain": "secure.quantserve.com",
+          "url": "https://secure.quantserve.com/aquant.js?a=p-xLEyC0FLYFXAH",
+          "filter": "||quantserve.com/aquant.js",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        },
+        {
+          "domain": "pixel.quantserve.com",
+          "url": "https://pixel.quantserve.com/pixel;r=1083117202;rf=0;uh=d62e3c65eb9;uht=2;a=p-xLEyC0FLYFXAH;url=https%3A%2F%2Fwww.redditmedia.com%2Fgtm%3Fid%3DGTM-5XVNS82%26cb%3Dnull;fpan=1;fpa=P0-451644459-1605312665423;ns=1;ce=1;qjs=1;qv=3364aec3-20201006003021;cm=;gdpr=0;ref=;d=www.redditmedia.com;je=0;sr=1680x1050x30;dst=1;et=1605312665423;tzo=300;ogl=",
+          "filter": "||quantserve.com/pixel;",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        },
+        {
+          "domain": "secure.quantserve.com",
+          "url": "https://secure.quantserve.com/aquant.js?a=p-xLEyC0FLYFXAH",
+          "filter": "||quantserve.com/aquant.js",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "scorecardresearch.com",
+      "ip_data": {
+        "ip_address": "165.193.78.252",
+        "country_code": "US",
+        "country": "United States",
+        "city": "",
+        "latitude": 37.751,
+        "longitude": -97.822
+      },
+      "whois_data": {
+        "registrar": "MarkMonitor Inc.",
+        "registrar_abuse_contact_email": "abusecomplaints@markmonitor.com",
+        "registrar_abuse_contact_phone": "+1.2083895740"
+      },
+      "radar_data": {
+        "owner_data": {
+          "name": "comScore, Inc",
+          "displayName": "comScore",
+          "privacyPolicy": "https://www.comscore.com/About/Privacy-Policy",
+          "url": "http://comscore.com"
+        },
+        "prevalence": 0.134,
+        "fingerprinting": 1,
+        "cookies": 0.132,
+        "categories": ["Analytics", "Audience Measurement"]
+      },
+      "associated_cookies": [
+        {
+          "name": "UID",
+          "type": "unknown",
+          "value": "18218425a14815961d15cgg1605312665",
+          "domain": "scorecardresearch.com",
+          "secure": true,
+          "session": false,
+          "httpOnly": false,
+          "thirdParty": true,
+          "expiryDate": "2022-11-04T00:11:11.315Z"
+        },
+        {
+          "name": "UIDR",
+          "type": "unknown",
+          "value": "1605312665",
+          "domain": "scorecardresearch.com",
+          "secure": true,
+          "session": false,
+          "httpOnly": false,
+          "thirdParty": true,
+          "expiryDate": "2022-11-04T00:11:11.315Z"
+        }
+      ],
+      "associated_trackers": [
+        {
+          "domain": "sb.scorecardresearch.com",
+          "url": "https://sb.scorecardresearch.com/p?c1=2&c2=20632726&cv=2.0&cj=1&c7=https://www.reddit.com/r/nutrition/&c4=https://www.reddit.com/r/nutrition/",
+          "filter": "||scorecardresearch.com^$third-party",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        },
+        {
+          "domain": "sb.scorecardresearch.com",
+          "url": "https://sb.scorecardresearch.com/p2?c1=2&c2=20632726&cv=2.0&cj=1&c7=https://www.reddit.com/&c4=https://www.reddit.com/&cs_ak_ss=1",
+          "filter": "||scorecardresearch.com^$third-party",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        },
+        {
+          "domain": "sb.scorecardresearch.com",
+          "url": "https://sb.scorecardresearch.com/p?c1=2&c2=20632726&cv=2.0&cj=1&c7=https://www.reddit.com/&c4=https://www.reddit.com/",
+          "filter": "||scorecardresearch.com^$third-party",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "quantcount.com",
+      "ip_data": {
+        "ip_address": "64.94.107.39",
+        "country_code": "US",
+        "country": "United States",
+        "city": "",
+        "latitude": 37.751,
+        "longitude": -97.822
+      },
+      "whois_data": {
+        "registrar": "MarkMonitor Inc.",
+        "registrar_abuse_contact_email": "abusecomplaints@markmonitor.com",
+        "registrar_abuse_contact_phone": "+1.2083895740"
+      },
+      "radar_data": {
+        "owner_data": "not found",
+        "prevalence": "not found",
+        "fingerprinting": "not found",
+        "cookies": "not found",
+        "categories": "not found"
+      },
+      "associated_cookies": [],
+      "associated_trackers": [
+        {
+          "domain": "rules.quantcount.com",
+          "url": "https://rules.quantcount.com/rules-p-xLEyC0FLYFXAH.js",
+          "filter": "||quantcount.com^$third-party",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        },
+        {
+          "domain": "rules.quantcount.com",
+          "url": "https://rules.quantcount.com/rules-p-xLEyC0FLYFXAH.js",
+          "filter": "||quantcount.com^$third-party",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.redditmedia.com/gtm?id=GTM-5XVNS82&cb=null",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "google.com",
+      "ip_data": {
+        "ip_address": "2a00:1450:4001:81f::200e",
+        "country_code": "DE",
+        "country": "Germany",
+        "city": "Frankfurt am Main",
+        "latitude": 50.1188,
+        "longitude": 8.6843
+      },
+      "whois_data": {
+        "registrar": "MarkMonitor Inc.",
+        "registrar_abuse_contact_email": "abusecomplaints@markmonitor.com",
+        "registrar_abuse_contact_phone": "+1.2083895740"
+      },
+      "radar_data": {
+        "owner_data": {
+          "name": "Google LLC",
+          "displayName": "Google",
+          "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+          "url": "http://google.com"
+        },
+        "prevalence": 0.597,
+        "fingerprinting": 3,
+        "cookies": 0.0842,
+        "categories": ["Online Payment", "CDN"]
+      },
+      "associated_cookies": [],
+      "associated_trackers": []
+    },
+    {
+      "domain": "googlesyndication.com",
+      "ip_data": {
+        "ip_address": "216.58.212.132",
+        "country_code": "US",
+        "country": "United States",
+        "city": "Mountain View",
+        "latitude": 37.4043,
+        "longitude": -122.0748
+      },
+      "whois_data": {
+        "registrar": "MarkMonitor Inc.",
+        "registrar_abuse_contact_email": "abusecomplaints@markmonitor.com",
+        "registrar_abuse_contact_phone": "+1.2083895740"
+      },
+      "radar_data": {
+        "owner_data": {
+          "name": "Google LLC",
+          "displayName": "Google",
+          "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+          "url": "http://google.com"
+        },
+        "prevalence": 0.3,
+        "fingerprinting": 3,
+        "cookies": 0.0489,
+        "categories": ["Ad Motivated Tracking", "Advertising"]
+      },
+      "associated_cookies": [],
+      "associated_trackers": [
+        {
+          "domain": "pagead2.googlesyndication.com",
+          "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=gpt_callback_usage&pvsid=4046579827397982&vrg=2020111001&nslots=0&eid=21068730%2C21067448%2C21068418&pub_url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fnutrition%2F&type=slotRequested&nfetch=0&nrend=0",
+          "filter": "/gen_204?$image,other,ping,script",
+          "type": "TrackingRequest",
+          "stack_depth": 1,
+          "stack": [
+            {
+              "fileName": "https://www.reddit.com/r/nutrition/",
+              "source": "ThirdPartyTracker RequestHandler"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

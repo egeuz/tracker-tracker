@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+p {
+  font-family: "Argent Pixel";
+  
+  // font-style: italic;
+}
+
+#root {
+  width: 100%;
+  height: 100vh;
+  background: $background;
+  color: $primary;
+  display: grid;
+  position: relative;
+}
